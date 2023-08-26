@@ -99,5 +99,10 @@
   },
   "cli": {
     "analytics": "9b5d6ee2-7e4c-4a42-a3f2-bda3142497d9"
-  }
+  },
+  
+  "defaultProject": "portofolio-angular"
+
+  
+  
 }
